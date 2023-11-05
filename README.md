@@ -5,5 +5,5 @@ This is an assignment based on Encapsulation, Constructor_Overloading &amp; Meth
 <h1><b>Assignment details → </b></h1>
 <img src="Assignment PDFs/Assignment-1_page-0001.jpg">
 
-<img src="Assignment PDFs/Assignment-1_page-0001.jpg">
+<img src="Assignment PDFs/Assignment-1_page-0002.jpg">
 
